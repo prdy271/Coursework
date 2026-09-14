@@ -1,0 +1,15 @@
+# Environment / secrets -- never commit real credentials
+.env
+
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# User-uploaded files -- not meant to live in the repo
+uploads/*
+!uploads/.gitkeep
+
+# OS clutter
+.DS_Store
+Thumbs.db

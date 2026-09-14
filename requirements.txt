@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+python-multipart
+jinja2
+psycopg2-binary
+pgvector
+sentence-transformers
+pypdf
+python-docx
+google-genai
+pymupdf
+pytesseract
+pillow
+markdown
+xhtml2pdf
+python-dotenv

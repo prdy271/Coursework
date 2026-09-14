@@ -102,3 +102,6 @@ test_gemini.py         Standalone script to test Gemini API connectivity indepen
 - **PDF exports don't render LaTeX** — math renders properly in chat (via KaTeX) but shows as raw text in generated PDFs.
 - **Topic tags are assigned at creation time only** — resources uploaded before a given feature was added won't have tags until re-uploaded.
 
+## License
+
+Add your preferred license here (e.g. MIT).
